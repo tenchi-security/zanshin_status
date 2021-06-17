@@ -7,6 +7,17 @@ sites:
     url: https://zanshin.tenchisecurity.com
   - name: Zanshin API health check
     url: https://api.zanshin.tenchisecurity.com/ping
+  - names: Zanshin API user check
+    url: https://api.zanshin.tenchisecurity.com/me
+    headers:
+      - "Authorization: Bearer $ZANSHIN_API_KEY"
+  - names: Zanshin API alert check
+    url: https://api.zanshin.tenchisecurity.com/alerts
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: Bearer $ZANSHIN_API_KEY"
+    body: '{"organizationId": "a72f4225-43e9-4922-b6b7-8b0620bdb1c0", "page": 1, "pageSize": 1}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
