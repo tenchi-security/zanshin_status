@@ -23,6 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
 
 commitMessages:
   commitAuthorName: "Tenchi Security Uptime Bot"
