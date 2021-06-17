@@ -14,9 +14,6 @@ on:
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:
-concurrency:
-  group: uptime
-  cancel-in-progress: true
 jobs:
   release:
     name: Check status
