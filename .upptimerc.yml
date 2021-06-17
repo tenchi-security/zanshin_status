@@ -7,11 +7,11 @@ sites:
     url: https://zanshin.tenchisecurity.com
   - name: Zanshin API health check
     url: https://api.zanshin.tenchisecurity.com/ping
-  - names: Zanshin API user check
+  - name: Zanshin API user check
     url: https://api.zanshin.tenchisecurity.com/me
     headers:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
-  - names: Zanshin API alert check
+  - name: Zanshin API alert check
     url: https://api.zanshin.tenchisecurity.com/alerts
     method: POST
     headers:
