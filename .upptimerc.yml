@@ -14,6 +14,7 @@ status-website:
   cname: status.zanshin.tenchisecurity.com
   # baseUrl: /your-repo-name
   logoUrl: https://zanshin.tenchisecurity.com/assets/logo/tenchi_horizontal_white.svg
+  favicon: https://zanshin.tenchisecurity.com/favicon.ico
   name: Zanshin Status Page
   introTitle: "Continuous, comprehensive and actionable assessments of third-party cloud security."
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/tenchi-security/zanshin_status) about the status of the Zanshin portal and API.
@@ -22,6 +23,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "Tenchi Security Uptime Bot"
+  commitAuthorEmail: "support@tenchisecurity.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
