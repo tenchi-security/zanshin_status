@@ -28,7 +28,7 @@ status-website:
   favicon: https://zanshin.tenchisecurity.com/favicon.ico
   name: Zanshin Status Page
   introTitle: "Continuous, comprehensive and actionable assessments of third-party cloud security."
-  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/tenchi-security/zanshin_status) about the status of the Zanshin portal and API.
+  introMessage: This status page uses regularly updated data from our [GitHub repository](https://github.com/tenchi-security/zanshin_status) about the status of the Zanshin portal and API.
   navbar:
     - title: Status
       href: /
@@ -39,6 +39,14 @@ status-website:
 commitMessages:
   commitAuthorName: "Tenchi Security Uptime Bot"
   commitAuthorEmail: "support@tenchisecurity.com"
+
+assignees:
+  - AlisonVilelaTenchi
+  - lferreira-tenchi
+  - Pr0teus
+  - asieira
+
+user-agent: tenchi-security
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
