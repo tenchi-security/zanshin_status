@@ -8,6 +8,7 @@ sites:
   - name: Zanshin API health check
     url: https://api.zanshin.tenchisecurity.com/ping
   - name: Zanshin API user check
+    icon: https://zanshin.tenchisecurity.com/favicon.ico
     url: https://api.zanshin.tenchisecurity.com/me
     headers:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
@@ -15,6 +16,7 @@ sites:
       - "Accept-Encoding: gzip, deflate"
   - name: Zanshin API alert check
     url: https://api.zanshin.tenchisecurity.com/alerts
+    icon: https://zanshin.tenchisecurity.com/favicon.ico
     method: POST
     headers:
       - "Content-Type: application/json"
@@ -32,7 +34,7 @@ status-website:
   favicon: https://zanshin.tenchisecurity.com/favicon.ico
   name: Zanshin Status Page
   introTitle: "Continuous, comprehensive and actionable assessments of third-party cloud security."
-  introMessage: This status page uses regularly updated data from our [GitHub repository](https://github.com/tenchi-security/zanshin_status) about the status of the Zanshin portal and API.
+  introMessage: If you need assistance, please [e-mail our support team](mailto:support@tenchisecurity.com) or log into our [support portal](https://support.tenchisecurity.com).
   navbar:
     - title: Status
       href: /
@@ -51,6 +53,9 @@ assignees:
   - asieira
 
 user-agent: tenchi-security
+
+i18n:
+  footer: Powered by [Tenchi Security](https://www.tenchisecurity.com)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
