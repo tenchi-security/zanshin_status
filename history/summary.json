@@ -4,18 +4,20 @@
     "url": "https://zanshin.tenchisecurity.com",
     "icon": "https://favicons.githubusercontent.com/zanshin.tenchisecurity.com",
     "slug": "zanshin-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 411,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 411,
-    "dailyMinutesDown": {}
+    "time": 443,
+    "timeDay": 584,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
+    "dailyMinutesDown": {
+      "2021-06-22": 0
+    }
   },
   {
     "name": "Zanshin API health check",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 135,
+    "timeDay": 124,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2522,
-    "timeDay": 2522,
-    "timeWeek": 2522,
-    "timeMonth": 2522,
-    "timeYear": 2522,
+    "time": 4369,
+    "timeDay": 5876,
+    "timeWeek": 4369,
+    "timeMonth": 4369,
+    "timeYear": 4369,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 847,
-    "timeYear": 847,
+    "time": 1556,
+    "timeDay": 307,
+    "timeWeek": 1556,
+    "timeMonth": 1556,
+    "timeYear": 1556,
     "dailyMinutesDown": {}
   }
 ]
