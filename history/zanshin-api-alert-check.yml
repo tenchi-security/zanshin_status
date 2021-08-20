@@ -1,7 +1,7 @@
 url: https://api.zanshin.tenchisecurity.com/alerts
-status: down
-code: 502
-responseTime: 5619
-lastUpdated: 2021-08-20T19:35:20.835Z
+status: up
+code: 200
+responseTime: 388
+lastUpdated: 2021-08-20T20:25:53.918Z
 startTime: Thu Jun 17 2021 21:36:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
