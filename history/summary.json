@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 419,
-    "timeDay": 321,
-    "timeWeek": 410,
-    "timeMonth": 435,
-    "timeYear": 419,
+    "time": 418,
+    "timeDay": 399,
+    "timeWeek": 404,
+    "timeMonth": 436,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2021-08-13": 10,
       "2021-06-22": 3
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 121,
-    "timeWeek": 117,
+    "timeDay": 120,
+    "timeWeek": 121,
     "timeMonth": 141,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -49,35 +49,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3853,
-    "timeDay": 1898,
-    "timeWeek": 3517,
-    "timeMonth": 3194,
-    "timeYear": 3853,
+    "time": 3782,
+    "timeDay": 1152,
+    "timeWeek": 2887,
+    "timeMonth": 3099,
+    "timeYear": 3782,
     "dailyMinutesDown": {
       "2021-06-29": 13,
       "2021-06-24": 8
-    }
-  },
-  {
-    "name": "Zanshin API alert check",
-    "url": "https://api.zanshin.tenchisecurity.com/alerts",
-    "icon": "https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg",
-    "slug": "zanshin-api-alert-check",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.91%",
-    "time": 1674,
-    "timeDay": 3508,
-    "timeWeek": 2547,
-    "timeMonth": 1713,
-    "timeYear": 1674,
-    "dailyMinutesDown": {
-      "2021-08-20": 69,
-      "2021-06-29": 13
     }
   }
 ]
