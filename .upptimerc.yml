@@ -15,16 +15,16 @@ sites:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
       - "Accept: application/json"
       - "Accept-Encoding: gzip, deflate"
-#  - name: Zanshin API alert check
-#    icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
-#    url: https://api.zanshin.tenchisecurity.com/alerts
-#    method: POST
-#    headers:
-#      - "Content-Type: application/json"
-#      - "Authorization: Bearer $ZANSHIN_API_KEY"
-#      - "Accept: application/json"
-#      - "Accept-Encoding: gzip, deflate"
-#    body: '{"organizationId": "a72f4225-43e9-4922-b6b7-8b0620bdb1c0", "page": 1, "pageSize": 1}'
+  - name: Zanshin API alert check
+    icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
+    url: https://api.zanshin.tenchisecurity.com/alerts
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: Bearer $ZANSHIN_API_KEY"
+      - "Accept: application/json"
+      - "Accept-Encoding: gzip, deflate"
+    body: '{"organizationId": "a72f4225-43e9-4922-b6b7-8b0620bdb1c0", "page": 1, "pageSize": 1}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
