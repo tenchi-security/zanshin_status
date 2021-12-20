@@ -5,9 +5,13 @@ repo: zanshin_status # The name of this repository
 sites:
   - name: Zanshin Portal
     url: https://zanshin.tenchisecurity.com
+    headers:
+      - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API health check
     icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
     url: https://api.zanshin.tenchisecurity.com/ping
+    headers:
+      - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API user check
     icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
     url: https://api.zanshin.tenchisecurity.com/me
@@ -15,6 +19,7 @@ sites:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
       - "Accept: application/json"
       - "Accept-Encoding: gzip, deflate"
+      - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API alert check
     icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
     url: https://api.zanshin.tenchisecurity.com/alerts
@@ -24,6 +29,7 @@ sites:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
       - "Accept: application/json"
       - "Accept-Encoding: gzip, deflate"
+      - "User-Agent: status.zanshin.tenchisecurity.com"
     body: '{"organizationId": "a72f4225-43e9-4922-b6b7-8b0620bdb1c0", "page": 1, "pageSize": 1}'
 
 status-website:
