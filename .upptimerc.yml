@@ -54,12 +54,11 @@ commitMessages:
   commitAuthorEmail: "support@tenchisecurity.com"
 
 assignees:
-  - AlisonVilelaTenchi
-  - lferreira-tenchi
-  - Pr0teus
   - asieira
+  - edpin
+  - thematheusgomes
 
-user-agent: tenchi-security
+user-agent: tenchi-security status page
 
 i18n:
   footer: Powered by [Tenchi Security](https://www.tenchisecurity.com)
