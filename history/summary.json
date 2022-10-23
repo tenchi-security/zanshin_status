@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 523,
-    "timeDay": 722,
-    "timeWeek": 547,
-    "timeMonth": 528,
-    "timeYear": 545,
+    "time": 524,
+    "timeDay": 501,
+    "timeWeek": 541,
+    "timeMonth": 534,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2021-12-07": 21
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 135,
-    "timeWeek": 156,
-    "timeMonth": 156,
+    "timeDay": 74,
+    "timeWeek": 145,
+    "timeMonth": 151,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1118,
-    "timeDay": 199,
-    "timeWeek": 324,
-    "timeMonth": 323,
-    "timeYear": 439,
+    "time": 1103,
+    "timeDay": 103,
+    "timeWeek": 284,
+    "timeMonth": 324,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2022-08-23": 24,
       "2022-06-21": 11,
@@ -70,16 +70,16 @@
     "icon": "https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg",
     "slug": "zanshin-api-alert-check",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.91%",
     "time": 1763,
-    "timeDay": 353,
-    "timeWeek": 8976,
-    "timeMonth": 4013,
-    "timeYear": 1420,
+    "timeDay": 397,
+    "timeWeek": 8867,
+    "timeMonth": 4004,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2022-10-20": 94,
       "2022-10-19": 72,
@@ -89,8 +89,7 @@
       "2021-12-21": 7,
       "2021-12-18": 9,
       "2021-11-24": 78,
-      "2021-11-18": 74,
-      "2021-10-23": 85
+      "2021-11-18": 74
     }
   }
 ]
