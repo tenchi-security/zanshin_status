@@ -4,18 +4,20 @@
     "url": "https://zanshin.tenchisecurity.com",
     "icon": "https://icons.duckduckgo.com/ip3/zanshin.tenchisecurity.com.ico",
     "slug": "zanshin-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 536,
+    "time": 535,
     "timeDay": 501,
     "timeWeek": 558,
     "timeMonth": 511,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-28": 0
+    }
   },
   {
     "name": "Zanshin API health check",
