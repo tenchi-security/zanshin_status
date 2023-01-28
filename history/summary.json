@@ -4,19 +4,19 @@
     "url": "https://zanshin.tenchisecurity.com",
     "icon": "https://icons.duckduckgo.com/ip3/zanshin.tenchisecurity.com.ico",
     "slug": "zanshin-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 501,
-    "timeWeek": 558,
-    "timeMonth": 511,
-    "timeYear": 534,
+    "time": 536,
+    "timeDay": 650,
+    "timeWeek": 588,
+    "timeMonth": 520,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-28": 7
     }
   },
   {
