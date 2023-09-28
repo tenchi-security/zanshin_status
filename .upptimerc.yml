@@ -4,6 +4,7 @@ repo: zanshin_status # The name of this repository
 
 sites:
   - name: Zanshin Portal
+    icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://zanshin.tenchisecurity.com
     headers:
       - "User-Agent: status.zanshin.tenchisecurity.com"
