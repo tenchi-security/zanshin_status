@@ -8,12 +8,12 @@ sites:
     headers:
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API health check
-    icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
+    icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/ping
     headers:
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API user check
-    icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
+    icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/me
     headers:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
@@ -21,7 +21,7 @@ sites:
       - "Accept-Encoding: gzip, deflate"
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API alert check
-    icon: https://zanshin.tenchisecurity.com/assets/logo/T-gray.svg
+    icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/alerts
     method: POST
     headers:
