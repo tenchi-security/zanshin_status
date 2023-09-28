@@ -37,7 +37,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zanshin.tenchisecurity.com
   # baseUrl: /your-repo-name
-  logoUrl: https://zanshin.tenchisecurity.com/assets/images/logo/horizontal_color.svg
+  logoUrl: https://zanshin.tenchisecurity.com/assets/images/logo/horizontal_border.svg
   favicon: https://zanshin.tenchisecurity.com/favicon.ico
   name: Zanshin Status Page
   introTitle: "Continuous, comprehensive and actionable assessments of third-party cloud security."
