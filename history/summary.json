@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 117,
-    "timeWeek": 205,
-    "timeMonth": 233,
+    "time": 294,
+    "timeDay": 240,
+    "timeWeek": 217,
+    "timeMonth": 234,
     "timeYear": 267,
-    "dailyMinutesDown": {
-      "2023-04-11": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zanshin API health check",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 161,
-    "timeWeek": 156,
-    "timeMonth": 148,
+    "time": 148,
+    "timeDay": 177,
+    "timeWeek": 170,
+    "timeMonth": 149,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2023-08-11": 6
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 331,
-    "timeDay": 411,
-    "timeWeek": 204,
-    "timeMonth": 196,
+    "timeDay": 583,
+    "timeWeek": 275,
+    "timeMonth": 211,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2023-09-27": 25,
@@ -73,10 +71,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 682,
-    "timeWeek": 385,
-    "timeMonth": 297,
+    "time": 472,
+    "timeDay": 113,
+    "timeWeek": 378,
+    "timeMonth": 284,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2023-09-27": 25,
