@@ -43,19 +43,19 @@
     "url": "https://api.zanshin.tenchisecurity.com/me",
     "icon": "https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg",
     "slug": "zanshin-api-user-check",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 141,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 239,
+    "time": 263,
+    "timeDay": 196,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-01-22": 0
+      "2025-01-22": 12
     }
   },
   {
