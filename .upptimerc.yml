@@ -6,16 +6,22 @@ sites:
   - name: Zanshin Portal
     icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://zanshin.tenchisecurity.com
+    assignees:
+      - lucas-subli
     headers:
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API health check
     icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/ping
+    assignees:
+      - rfranco
     headers:
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API user check
     icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/me
+    assignees:
+      - rfranco
     headers:
       - "Authorization: Bearer $ZANSHIN_API_KEY"
       - "Accept: application/json"
@@ -25,6 +31,8 @@ sites:
     icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
     url: https://api.zanshin.tenchisecurity.com/alerts
     method: POST
+    assignees:
+      - rfranco
     headers:
       - "Content-Type: application/json"
       - "Authorization: Bearer $ZANSHIN_API_KEY"
