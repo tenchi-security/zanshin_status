@@ -35,7 +35,7 @@
     "timeDay": 126,
     "timeWeek": 137,
     "timeMonth": 160,
-    "timeYear": 143,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,19 @@
     "url": "https://api.zanshin.tenchisecurity.com/me",
     "icon": "https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg",
     "slug": "zanshin-api-user-check",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 95,
-    "timeWeek": 163,
-    "timeMonth": 189,
+    "timeDay": 173,
+    "timeWeek": 180,
+    "timeMonth": 196,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-01-29": 0,
+      "2025-01-29": 11,
       "2025-01-22": 12
     }
   },
@@ -74,7 +74,7 @@
     "timeDay": 102,
     "timeWeek": 242,
     "timeMonth": 244,
-    "timeYear": 312,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-01-20": 99
     }
