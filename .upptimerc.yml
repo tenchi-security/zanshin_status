@@ -29,7 +29,7 @@ sites:
       - "User-Agent: status.zanshin.tenchisecurity.com"
   - name: Zanshin API alert check
     icon: https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg
-    url: https://api.zanshin.tenchisecurity.com/a72f4225-43e9-4922-b6b7-8b0620bdb1c0/alerts
+    url: https://api.zanshin.tenchisecurity.com/organizations/a72f4225-43e9-4922-b6b7-8b0620bdb1c0/alerts
     method: POST
     assignees:
       - rfranco
@@ -39,7 +39,7 @@ sites:
       - "Accept: application/json"
       - "Accept-Encoding: gzip, deflate"
       - "User-Agent: status.zanshin.tenchisecurity.com"
-    body: '{}'
+    # body: '{}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
