@@ -38,11 +38,6 @@ jobs:
           command: "site"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-      - name: Copy API files to site
-        run: |
-          mkdir -p site/status-page/__sapper__/export/api
-          cp -r api/* site/status-page/__sapper__/export/api/
-          cp history/summary.json site/status-page/__sapper__/export/api/
       - uses: peaceiris/actions-gh-pages@v4
         name: GitHub Pages Deploy
         with:
