@@ -4,9 +4,9 @@
     "url": "https://zanshin.tenchisecurity.com",
     "icon": "https://zanshin.tenchisecurity.com/assets/images/logo/notext_color.svg",
     "slug": "zanshin-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 240,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2025-11-07": 0,
       "2025-05-28": 11,
       "2025-01-20": 99
     }
